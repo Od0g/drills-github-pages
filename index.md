@@ -1,1 +1,1 @@
-title: ODOG-Git
+title: ODOG
